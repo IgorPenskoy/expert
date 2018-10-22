@@ -1,0 +1,15 @@
+HN N HN
+HN S HN
+HN P HN
+N N N
+N S N
+N P Z
+S N P
+S S Z
+S P N
+P N Z
+P S P
+P P P
+HP N HP
+HP S HP
+HP P HP
